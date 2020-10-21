@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/MartaKode)
 [![Github Badge](https://img.shields.io/badge/-shighetari-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shighetari/)](https://www.github.com/shighetari/) 
 [![Gmail Badge](https://img.shields.io/badge/-shighetari@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shighetari@gmail.com)](mailto:shighetari@gmail.com) 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?color=193549&label=%20&logo=linkedin&logoColor=e8e?link=?link=https://www.linkedin.com/in/developerbarrios//left&link=https://www.linkedin.com/in/developerbarrios//&style=social)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?color=193549&label=%20&logo=linkedin&logoColor=e8e?link=link=https://www.linkedin.com/in/developerbarrios//left&link=https://www.linkedin.com/in/developerbarrios//&style=social)](https://www.linkedin.com/in/developerbarrios)
 
 </div>
 
