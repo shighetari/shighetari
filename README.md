@@ -14,7 +14,7 @@
 
 I work with both front end and back end systems.
 I've been developing projects since I was 14 years old and hope to turn a hobby into a good job.
-I currently enjoy working with JaveScript, Node.JS, and all tools full-stack.
+I currently enjoy working with JavaScript, Node.JS, and all tools full-stack.
 I have a passion for all things information and cybersecurity.
 Red Team dreams 
 
