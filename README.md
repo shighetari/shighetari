@@ -17,6 +17,7 @@ I've been developing projects since I was 14 years old and hope to turn a hobby 
 I currently enjoy working with JavaScript, Node.JS, and all tools full-stack.
 I have a passion for all things information and cybersecurity.
 Red Team dreams 
+Kali Linux
 
 <br />
 <br />
