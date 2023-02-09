@@ -1,88 +1,150 @@
-<div style="display: flex; justify-content: space-evenly; width: 100%">
+# Francisco Barrios
 
-![Profile views](https://gpvc.arturio.dev/MartaKode)
-[![Github Badge](https://img.shields.io/badge/-shighetari-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shighetari/)](https://www.github.com/shighetari/) 
-[![Gmail Badge](https://img.shields.io/badge/-shighetari@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shighetari@gmail.com)](mailto:shighetari@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?color=193549&label=%20&logo=linkedin&logoColor=e8e?link=link=https://www.linkedin.com/in/developerbarrios//left&link=https://www.linkedin.com/in/developerbarrios//&style=social)](https://www.linkedin.com/in/developerbarrios)
+<p align="center">
+  
+[![Github Badge](https://img.shields.io/badge/-shighetari-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shighetari/)](https://www.github.com/shighetari/)
+[![Gmail Badge](https://img.shields.io/badge/-shighetari@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shighetari@gmail.com)](mailto:shighetari@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/developerbarrios/)](https://www.linkedin.com/in/developerbarrios)
+ ![Profile views](https://gpvc.arturio.dev/MartaKode)
+</p>
+<p align="center">  Skills and Technologies </p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-darkslategray?color=141321&label=%20&logo=javascript&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?color=141321&label=%20&logo=typescript&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?color=6DB33F&label=%20&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hibernate-3F5D7D?color=3F5D7D&label=%20&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?color=DD0031&label=%20&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?color=61DAFB&label=%20&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express%20(Node.js)-339933?color=339933&label=%20&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Play%20(Java)-007ACC?color=007ACC&label=%20&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-darkslategray?color=141321&label=%20&logo=React&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Redux-ff69b4?color=141321&label=%20&logo=redux&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Node.js-ff69b4?color=141321&label=%20&logo=node.js&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Jenkins-blue?color=141321&label=%20&logo=jenkins&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Confluence-blue?color=141321&label=%20&logo=confluence&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Trello-blue?color=141321&label=%20&logo=trello&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Whimsical-blue?color=141321&label=%20&logo=whimsical&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-DB%20Designer-blue?color=141321&label=%20&logo=database-designer&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-GitHub-black?color=141321&label=%20&logo=github&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-BitBucket-black?color=141321&label=%20&logo=bitbucket&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Discord-black?color=141321&label=%20&logo=discord&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-blue?color=141321&label=%20&logo=machine-learning&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-NLP-blue?color=141321&label=%20&logo=nlp&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Data%20Modeling-blue?color=141321&label=%20&logo=data-modeling&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-AWS-orange?color=141321&label=%20&logo=amazon-aws&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Azure-blue?color=141321&label=%20&logo=microsoft-azure&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Jira-0365d6?logo=jira&logoColor=0365d6&style=flat" />
+  <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=000000&style=flat" />
+  <img src="https://img.shields.io/badge/-VIM-ffa500?logo=vim&logoColor=ffa500&style=flat" />
+  <img src="https://img.shields.io/badge/-Bash-3776AB?logo=gnu-bash&logoColor=3776AB&style=flat" />
+  <img src="https://img.shields.io/badge/-Scripting-2f8cff?logo=python&logoColor=2f8cff&style=flat" />
+  <img src="https://img.shields.io/badge/-Automation-yellow?logo=automation&logoColor=yellow&style=flat" />
+  <img src="https://img.shields.io/badge/-Docker-blue?color=141321&label=%20&logo=docker&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Kubernetes-blue?color=141321&label=%20&logo=kubernetes&logoColor=e48" />
 
-### Hi there 👋, my name is Francisco
-<h5>My body is the system & my brain a RESTful API...</h5>
-
-<img align="right" src="https://media.giphy.com/media/s8p00pqW1T1Hf3275u/giphy.gif" >
-
-I work with both front end and back end systems.
-I've been developing projects since I was 14 years old and hope to turn a hobby into a good job.
-I currently enjoy working with JavaScript, Node.JS, and all tools full-stack.
-I have a passion for all things information and cybersecurity.
-Red Team dreams 
-Kali Linux
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
-You can connect with me on [Linkedln](https://www.linkedin.com/in/developerbarrios/) 
-
-You can follow me on [Twitter](https://www.twitter.com/shighetariYT)
-
-You can contact me at email: <shighetari@gmail.com> 
-
-<br />
-<br />
-<br />
-<br />
-
-
-
-- 💬 Ask me about my favorite historical era📜
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a history nerd 🤓
-
-<br />
-<br />
+</p>
 
 
-## Some of my Github Stats📈
+## About Me
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartaKode&layout=compact&theme=synthwave)](https://github.com/shighetari/github-readme-stats)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=shighetari&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave)](https://github.com/shighetari/github-readme-stats)
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/s8p00pqW1T1Hf3275u/giphy.gif" width="400"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartaKode&layout=compact&theme=radical)](https://github.com/shighetari/github-readme-stats)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=shighetari&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/shighetari/github-readme-stats)
+I'm a full-stack developer with experience in front-end and back-end systems. I have a passion for all things information and cybersecurity and have been developing projects since I was 14 years old. 
+
+I strive to not just be a proficient programmer, but also a well-rounded software engineer who understands the full software development lifecycle. I'm always eager to work with new technologies and bring my best to every project.
+
+At the end of the day, I believe that success lies not in individual accomplishments, but in the collective achievements of a team. I aim to be a humble and supportive team asset, always willing to lend a helping hand to those who need it. 
+
+# Hello World!
+
+I am a software developer with a passion for solving complex problems and building impactful solutions. I have been honing my skills for years now, constantly seeking out opportunities to grow and learn. 
+
+## My Most Up to date Skill sets
+
+<table>
+  <tr>
+    <td align="center">
+      💻
+    </td>
+    <td>
+      <b>Programming Languages</b>
+      <ul>
+        <li>Java</li>
+        <li>JavaScript</li>
+        <li>TypeScript</li>
+        <li>Python</li>
+        <li>SQL</li>
+        <li>VB</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🌉
+    </td>
+    <td>
+      <b>Frameworks</b>
+      <ul>
+        <li>Spring</li>
+        <li>Hibernate</li>
+        <li>React</li>
+        <li>Angular</li>
+        <li>React Native</li>
+        <li>Express (Node.js)</li>
+        <li>Express.js (Node.js) </li>
+        <li> Play (Java) </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      🚀
+    </td>
+    <td>
+      <b>DevOps Beliefs</b>
+      
+- Continuous Integration and Continuous Delivery (CI/CD) :hourglass_flowing_sand:
+      
+- Infrastructure as Code (IaC) :wrench:
+      
+- Containerization (e.g. Docker, Kubernetes) :whale:
+- Microservices architecture :microscope:
+- Automated testing and deployment :heavy_check_mark:
+- Configuration management (e.g. Ansible, Chef, Puppet) :wrench:
+- Monitoring and logging (e.g. ELK Stack, Datadog) :bar_chart:
+- Security (e.g. secure coding practices, network security) :shield:
+- Cloud computing (e.g. Amazon Web Services (AWS), Microsoft Azure) :cloud:
+- Collaborative workflows (e.g. Git, GitHub) :computer:
+- Disaster recovery and business continuity planning :warning:
+- DevOps cultural shift and adoption within the organization :bulb:
+
+    </td>
+  </tr>
+</table>
+
+About Me
+I am a software developer with a passion for creating high-quality, innovative and scalable solutions. I have several years of experience in the field and have honed my skills in multiple programming languages, including Java, JavaScript, TypeScript, Python, SQL, and VB. I am confident in my ability to build and deploy applications with a variety of frameworks, including Spring, Hibernate, React, Angular, and React Native. I am always striving to stay up-to-date with the latest technologies and trends in the industry, and I am committed to continuously improving my skills and knowledge.
+
+My approach to software development is centered around collaboration, communication, and attention to detail. I believe that the success of a project is dependent on the collective efforts of the team and I am dedicated to working closely with my colleagues to ensure that we achieve our goals and deliver the best possible outcomes. I am a strong communicator and I have the ability to explain complex technical concepts in a clear and concise manner, making me an asset to any team.
+
+I am passionate about the software development process and I enjoy the challenge of solving complex problems. I am always looking for opportunities to grow and take on new responsibilities, and I am eager to take on new challenges and expand my skill set. I am excited about the potential of new technologies and I am committed to using my skills to contribute to the growth and success of my current and future projects.
+
+My Skills and Interests
+In addition to my experience in software development, I am also interested in DevOps and software engineering. I believe that the role of a software engineer extends beyond writing code and I am committed to learning about the full software development life cycle, from design and development to deployment and operations. I am particularly interested in cloud computing, automation, and containerization, and I am eager to explore how these technologies can be used to build more efficient and scalable systems.
+
+I am confident in my ability to work in a fast-paced and dynamic environment and I am committed to delivering high-quality work on time and within budget. I am a team player and I believe that success is achieved through collaboration and open communication. I am always looking for new and innovative ways to improve my skills and to contribute to the success of my projects.
 
 
-![](https://img.shields.io/badge/-JavaScript-darkslategray?color=141321&label=%20&logo=javascript&logoColor=e48)
-![](https://img.shields.io/badge/-React-darkslategray?color=141321&label=%20&logo=React&logoColor=e48)
-![](https://img.shields.io/badge/-Redux-ff69b4?color=141321&label=%20&logo=redux&logoColor=e48)
-![](https://img.shields.io/badge/-Node.js-ff69b4?color=141321&label=%20&logo=node.js&logoColor=e48)
-![](https://img.shields.io/badge/-Jest-ff69b4?color=141321&label=%20&logo=jest&logoColor=e48)
-![](https://img.shields.io/badge/-Express.js-ff69b4?color=141321&label=%20&logo=express&logoColor=e48)
-![](https://img.shields.io/badge/-SQLite-ff69b4?color=141321&label=%20&logo=SQLite&logoColor=e48)
-![](https://img.shields.io/badge/-PostgresSQL-ff69b4?color=141321&label=%20&logo=postgresql&logoColor=e48)
-![](https://img.shields.io/badge/-Python-ff69b4?color=141321&label=%20&logo=python&logoColor=e48)
-![](https://img.shields.io/badge/-HTML5-ff69b4?color=141321&label=%20&logo=html5&logoColor=e48)
-![](https://img.shields.io/badge/-CSS-ff69b4?color=141321&label=%20&logo=css3&logoColor=e48)
+
+Thanks for stopping by!
 
 
+## Connect with me
 
-<!--
-**shighetari/shighetari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Follow me on [Twitter](https://www.twitter.com/shighetariYT)
+- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/developerbarrios)
+- 💌 Contact me at <shighetari@gmail.com> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
