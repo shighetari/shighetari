@@ -1,16 +1,24 @@
-# Francisco Barrios
-
- [![Github Badge](https://img.shields.io/badge/-shighetari-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/shighetari/)](https://www.github.com/shighetari/)
- 
-![Discord](https://img.shields.io/discord/330638869156462595?color=na&label=ANBU%20Members%20ONLINE&logo=discord&logoColor=violet&style=for-the-badge)
 <p align="center">
-  
- ![Profile views](https://gpvc.arturio.dev/MartaKode)
-  
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://i.imgur.com/6bvpIG9.png" alt="Francisco Barrios" /></a>
+</p>
+
 [![Passion Project](https://img.shields.io/badge/-Current_Passion_Project-663399?style=for-the-badge&logo=Undertale&logoColor=white&link=https://github.com/shighetari/anbu-devops-professional-development/tree/master/Karuma)](https://github.com/shighetari/anbu-devops-professional-development/tree/master/Karuma)
 [![Anbu App](https://img.shields.io/badge/-SaaS_Mock_Demo-663399?style=for-the-badge&logo=openAI&logoColor=white&link=https://www.anbu.app/)](https://www.anbu.app/)
 [![Gmail Badge](https://img.shields.io/badge/-shighetari@gmail.com-663399?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shighetari@gmail.com)](mailto:shighetari@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-663399?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/developerbarrios/)](https://www.linkedin.com/in/developerbarrios)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-663399?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/developerbarrios/)](https://www.linkedin.com/in/developerbarrios) 
+
+
+[![Github Badge](https://img.shields.io/badge/-Follow_me_on_GitHub!-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/shighetari/)](https://www.github.com/shighetari/) 
+![Discord](https://img.shields.io/discord/330638869156462595?color=na&label=ANBU%20DEVOPS%20Members%20ONLINE&logo=discord&logoColor=violet&style=for-the-badge)
+<p align="center"> 
+ 
+ ![GitHub followers](https://img.shields.io/github/followers/shighetari?color=pink&logoColor=pink&style=social)
+ ![Profile views](https://gpvc.arturio.dev/MartaKode)
+![Twitter Follow](https://img.shields.io/twitter/follow/shighetariyt?color=pink&logoColor=pink&style=social)
+ ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCpHzfRS9MOiCnfw1ZhIThfw?color=pink&label=My%20Personal%20Channel%20Views&logoColor=pink&style=social)
+ ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCpHzfRS9MOiCnfw1ZhIThfw?logoColor=pink&style=social)
+ ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/shighetari/anbu-devops-professional-development?color=pink&label=Personal%20commit%20activity%20for%20ANBU&logoColor=pink)
   
 </p>
 <p align="center">  Skills and Technologies </p>
@@ -170,4 +178,7 @@ Thanks for stopping by!
 - 🔥 Follow me on [Twitter](https://www.twitter.com/shighetariYT)
 - 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/developerbarrios)
 - 💌 Contact me at <shighetari@gmail.com> 
+
+
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://user-images.githubusercontent.com/47320015/217756124-5fd0a094-3836-4aa8-930c-30e76671b11b.gif)
 
