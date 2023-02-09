@@ -1,11 +1,17 @@
 # Francisco Barrios
 
+ [![Github Badge](https://img.shields.io/badge/-shighetari-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/shighetari/)](https://www.github.com/shighetari/)
+ 
+![Discord](https://img.shields.io/discord/330638869156462595?color=na&label=ANBU%20Members%20ONLINE&logo=discord&logoColor=violet&style=for-the-badge)
 <p align="center">
   
-[![Github Badge](https://img.shields.io/badge/-shighetari-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shighetari/)](https://www.github.com/shighetari/)
-[![Gmail Badge](https://img.shields.io/badge/-shighetari@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shighetari@gmail.com)](mailto:shighetari@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/developerbarrios/)](https://www.linkedin.com/in/developerbarrios)
  ![Profile views](https://gpvc.arturio.dev/MartaKode)
+  
+[![Passion Project](https://img.shields.io/badge/-Current_Passion_Project-663399?style=for-the-badge&logo=Undertale&logoColor=white&link=https://github.com/shighetari/anbu-devops-professional-development/tree/master/Karuma)](https://github.com/shighetari/anbu-devops-professional-development/tree/master/Karuma)
+[![Anbu App](https://img.shields.io/badge/-SaaS_Mock_Demo-663399?style=for-the-badge&logo=openAI&logoColor=white&link=https://www.anbu.app/)](https://www.anbu.app/)
+[![Gmail Badge](https://img.shields.io/badge/-shighetari@gmail.com-663399?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shighetari@gmail.com)](mailto:shighetari@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-663399?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/developerbarrios/)](https://www.linkedin.com/in/developerbarrios)
+  
 </p>
 <p align="center">  Skills and Technologies </p>
 
@@ -29,9 +35,9 @@
   <img src="https://img.shields.io/badge/-GitHub-black?color=141321&label=%20&logo=github&logoColor=e48" />
   <img src="https://img.shields.io/badge/-BitBucket-black?color=141321&label=%20&logo=bitbucket&logoColor=e48" />
   <img src="https://img.shields.io/badge/-Discord-black?color=141321&label=%20&logo=discord&logoColor=e48" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-blue?color=141321&label=%20&logo=machine-learning&logoColor=e48" />
-  <img src="https://img.shields.io/badge/-NLP-blue?color=141321&label=%20&logo=nlp&logoColor=e48" />
-  <img src="https://img.shields.io/badge/-Data%20Modeling-blue?color=141321&label=%20&logo=data-modeling&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-blue?color=141321&label=%20&logo=Adobe Illustrator&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-NLP-blue?color=141321&label=%20&logo=Adobe Illustrator&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Data%20Modeling-blue?color=141321&label=%20&logo=Adobe Illustrator&logoColor=e48" />
   <img src="https://img.shields.io/badge/-AWS-orange?color=141321&label=%20&logo=amazon-aws&logoColor=e48" />
   <img src="https://img.shields.io/badge/-Azure-blue?color=141321&label=%20&logo=microsoft-azure&logoColor=e48" />
   <img src="https://img.shields.io/badge/-Jira-0365d6?logo=jira&logoColor=0365d6&style=flat" />
@@ -42,10 +48,26 @@
   <img src="https://img.shields.io/badge/-Automation-yellow?logo=automation&logoColor=yellow&style=flat" />
   <img src="https://img.shields.io/badge/-Docker-blue?color=141321&label=%20&logo=docker&logoColor=e48" />
   <img src="https://img.shields.io/badge/-Kubernetes-blue?color=141321&label=%20&logo=kubernetes&logoColor=e48" />
-
-</p>
-
-
+   <img src="https://img.shields.io/badge/-Hibernate-6b2366?logo=hibernate&logoColor=6b2366&style=flat" />
+  <img src="https://img.shields.io/badge/-Gradle-1D1B23?logo=gradle&logoColor=1D1B23&style=flat" />
+  <img src="https://img.shields.io/badge/-Kafka-6f0ba6?logo=kafka&logoColor=6f0ba6&style=flat" />
+  <img src="https://img.shields.io/badge/-Keycloak-000C77?logo=keycloak&logoColor=000C77&style=flat" />
+  <img src="https://img.shields.io/badge/-Terraform-31a5e5?logo=terraform&logoColor=31a5e5&style=flat" />
+  <img src="https://img.shields.io/badge/-Docker%20Swarm-2496ed?logo=docker&logoColor=2496ed&style=flat" />
+  <img src="https://img.shields.io/badge/-JSON-01B2B2?logo=json&logoColor=01B2B2&style=flat" />
+  <img src="https://img.shields.io/badge/-ENV-AEC958?logo=.env&logoColor=AEC958&style=flat" />
+  <img src="https://img.shields.io/badge/-GIT-F05032?logo=git&logoColor=F05032&style=flat" />
+  <img src="https://img.shields.io/badge/-AI-17a2b8?logo=OpenAI&logoColor=17a2b8&style=flat" />
+  <img src="https://img.shields.io/badge/-Medical%20Industry-7F0055?logo=medical%20industry&logoColor=7F0055&style=flat" />
+  <img src="https://img.shields.io/badge/-SaaS-0052cc?logo=saas&logoColor=0052cc&style=flat" />
+  <img src="https://img.shields.io/badge/-DevOps-3cbd59?logo=devops&logoColor=3cbd59&style=flat" />
+  
+<img src="https://img.shields.io/badge/-Agile%20Methodology-blue?color=141321&label=%20&logo=swift&logoColor=e48" />
+<img src="https://img.shields.io/badge/-Scrum-blue?color=141321&label=%20&logo=Scrum Alliance&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Kanban-blue?color=141321&label=%20&logo=Analogue&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Cloud%20Computing-blue?color=141321&label=%20&logo=Cloudflare&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Data%20Analytics-blue?color=141321&label=%20&logo=Google Analytics&logoColor=e48" />
+  
 ## About Me
 
 <p align="center">
