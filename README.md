@@ -17,6 +17,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-darkslategray?color=141321&label=%20&logo=javascript&logoColor=e48" />
+  <img src="https://img.shields.io/badge/-Java-darkslategray?color=141321&label=%20&logo=OpenJDK&logoColor=e48" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?color=141321&label=%20&logo=typescript&logoColor=e48" />
   <img src="https://img.shields.io/badge/-Spring-6DB33F?color=6DB33F&label=%20&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-Hibernate-3F5D7D?color=3F5D7D&label=%20&logo=java&logoColor=white" />
