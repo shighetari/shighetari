@@ -3,6 +3,11 @@
     <img src="https://i.imgur.com/6bvpIG9.png" alt="Francisco Barrios" /></a>
 </p>
 
+
+![ezgif-3-93e6019fc3](https://user-images.githubusercontent.com/47320015/217985847-d317f89f-b659-43d5-bb48-f97656c55dec.gif)
+
+
+
 [![Passion Project](https://img.shields.io/badge/-Current_Passion_Project-663399?style=for-the-badge&logo=Undertale&logoColor=white&link=https://github.com/shighetari/anbu-devops-professional-development/tree/master/Karuma)](https://github.com/shighetari/anbu-devops-professional-development/tree/master/Karuma)
 [![Anbu App](https://img.shields.io/badge/-SaaS_Mock_Demo-663399?style=for-the-badge&logo=openAI&logoColor=white&link=https://www.anbu.app/)](https://www.anbu.app/)
 [![Gmail Badge](https://img.shields.io/badge/-shighetari@gmail.com-663399?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shighetari@gmail.com)](mailto:shighetari@gmail.com)
@@ -179,6 +184,8 @@ Thanks for stopping by!
 - 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/developerbarrios)
 - 💌 Contact me at <shighetari@gmail.com> 
 
+![ezgif-3-e6c5a61212](https://user-images.githubusercontent.com/47320015/217984549-1328ae31-942c-485c-8344-a39c2660d001.gif)
+![ezgif-3-7a2e7b583d](https://user-images.githubusercontent.com/47320015/217987871-337c047e-dccf-4de0-8bcb-1d3cf9c95d54.gif)
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://user-images.githubusercontent.com/47320015/217756124-5fd0a094-3836-4aa8-930c-30e76671b11b.gif)
 
