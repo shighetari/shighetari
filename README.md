@@ -21,8 +21,6 @@
  ![GitHub followers](https://img.shields.io/github/followers/shighetari?color=pink&logoColor=pink&style=social)
  ![Profile views](https://gpvc.arturio.dev/MartaKode)
 ![Twitter Follow](https://img.shields.io/twitter/follow/shighetariyt?color=pink&logoColor=pink&style=social)
- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCpHzfRS9MOiCnfw1ZhIThfw?color=pink&label=My%20Personal%20Channel%20Views&logoColor=pink&style=social)
- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCpHzfRS9MOiCnfw1ZhIThfw?logoColor=pink&style=social)
  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/shighetari/anbu-devops-professional-development?color=pink&label=Personal%20commit%20activity%20for%20ANBU&logoColor=pink)
   
 </p>
