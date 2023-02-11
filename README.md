@@ -4,22 +4,24 @@
 </p>
 
 
-![ezgif-3-93e6019fc3](https://user-images.githubusercontent.com/47320015/217985847-d317f89f-b659-43d5-bb48-f97656c55dec.gif)
+
 
 
 
 [![Passion Project](https://img.shields.io/badge/-Current_Passion_Project-663399?style=for-the-badge&logo=Undertale&logoColor=white&link=https://github.com/shighetari/anbu-devops-professional-development/tree/master/Karuma)](https://github.com/shighetari/anbu-devops-professional-development/tree/master/Karuma)
 [![Anbu App](https://img.shields.io/badge/-SaaS_Mock_Demo-663399?style=for-the-badge&logo=openAI&logoColor=white&link=https://www.anbu.app/)](https://www.anbu.app/)
 [![Gmail Badge](https://img.shields.io/badge/-shighetari@gmail.com-663399?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shighetari@gmail.com)](mailto:shighetari@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-663399?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/developerbarrios/)](https://www.linkedin.com/in/developerbarrios) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-663399?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/developerbarrios/)](https://www.linkedin.com/in/developerbarrios)
+![Discord](https://img.shields.io/discord/330638869156462595?color=na&label=ACTIVE%20ANBU%20DEVOPS%20Members%20:%20&ONLINE&logo=discord&logoColor=violet&style=for-the-badge)
+ [![Github Badge](https://img.shields.io/badge/-Follow_me_on_GitHub_!_<3-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/shighetari/)](https://www.github.com/shighetari/) 
+![ezgif-3-93e6019fc3](https://user-images.githubusercontent.com/47320015/217985847-d317f89f-b659-43d5-bb48-f97656c55dec.gif)
 
-![Discord](https://img.shields.io/discord/330638869156462595?color=na&label=ANBU%20DEVOPS%20Members%20ONLINE&logo=discord&logoColor=violet&style=for-the-badge)
 <p align="center"> 
   
-[![Github Badge](https://img.shields.io/badge/-Follow_me_on_GitHub!-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/shighetari/)](https://www.github.com/shighetari/) 
+
+
  ![GitHub followers](https://img.shields.io/github/followers/shighetari?color=pink&logoColor=pink&style=social)
-<!--  ![Profile views](https://gpvc.arturio.dev/MartaKode) -->
-![Twitter Follow](https://img.shields.io/twitter/follow/shighetariyt?color=pink&logoColor=pink&style=social)
+ ![Twitter Follow](https://img.shields.io/twitter/follow/shighetariyt?color=pink&logoColor=pink&style=social)
  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/shighetari/anbu-devops-professional-development?color=pink&label=Personal%20commit%20activity%20for%20ANBU&logoColor=pink)
   
 </p>
