@@ -19,7 +19,7 @@
 <p align="center"> 
  
  ![GitHub followers](https://img.shields.io/github/followers/shighetari?color=pink&logoColor=pink&style=social)
- ![Profile views](https://gpvc.arturio.dev/MartaKode)
+<!--  ![Profile views](https://gpvc.arturio.dev/MartaKode) -->
 ![Twitter Follow](https://img.shields.io/twitter/follow/shighetariyt?color=pink&logoColor=pink&style=social)
  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/shighetari/anbu-devops-professional-development?color=pink&label=Personal%20commit%20activity%20for%20ANBU&logoColor=pink)
   
