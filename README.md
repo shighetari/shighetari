@@ -13,11 +13,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-shighetari@gmail.com-663399?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shighetari@gmail.com)](mailto:shighetari@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-663399?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/developerbarrios/)](https://www.linkedin.com/in/developerbarrios) 
 
-
-[![Github Badge](https://img.shields.io/badge/-Follow_me_on_GitHub!-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/shighetari/)](https://www.github.com/shighetari/) 
 ![Discord](https://img.shields.io/discord/330638869156462595?color=na&label=ANBU%20DEVOPS%20Members%20ONLINE&logo=discord&logoColor=violet&style=for-the-badge)
 <p align="center"> 
- 
+  
+[![Github Badge](https://img.shields.io/badge/-Follow_me_on_GitHub!-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/shighetari/)](https://www.github.com/shighetari/) 
  ![GitHub followers](https://img.shields.io/github/followers/shighetari?color=pink&logoColor=pink&style=social)
 <!--  ![Profile views](https://gpvc.arturio.dev/MartaKode) -->
 ![Twitter Follow](https://img.shields.io/twitter/follow/shighetariyt?color=pink&logoColor=pink&style=social)
